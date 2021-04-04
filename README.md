@@ -13,5 +13,6 @@ Para deixar a assinatura usavel para sua empresa, favor realizar as seguintes al
 
 ## MELHORIAS
 - [x] Aplicar PHP no formulário para simples preenchimento.
+- [ ] Criar novos campos para o usuário preencher os dados da empresa.
 - [ ] Aplicar Javascript para preenchimento obrigatório.
 - [ ] Encontrar uma forma de salvar a assinatura direto da página.
