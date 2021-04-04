@@ -1,0 +1,62 @@
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Assinatura Terumo</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="shortcut icon" href="favicon.ico" />
+	<style>
+#contactform {  
+    width: 400px;
+    padding: 20px;
+    background: #f0f0f0;
+    overflow:auto;
+	font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  
+    /* Border style */
+    border: 1px solid #cccccc;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px; 
+  
+    /* Border Shadow */
+    -moz-box-shadow: 2px 2px 2px #cccccc;
+    -webkit-box-shadow: 2px 2px 2px #cccccc;
+    box-shadow: 2px 2px 2px #cccccc;
+  
+}
+form {
+	margin: 0 auto;
+	width: 50%;
+	top: 50%;
+}
+</style>
+</head>
+<body>
+<br/>
+<form id="contactform" class="rounded" method="get" action="assinaturas.php">
+<center><h3>ASSINATURA DE E-MAIL AUTOMÁTICA</h3></center><br/>
+<div class="form-group">
+    <label for="exampleInputEmail1">Nome do Colaborador</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="nome" placeholder="Escreva o nome aqui!">
+</div>
+<div class="form-group">
+    <label for="exampleInputEmail1">Cargo</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="cargo" placeholder="Qual o cargo?">
+</div>
+<div class="form-group">
+    <label for="exampleInputEmail1">Telefone Terumo (Ramal)</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="telefone" placeholder="Digite o número com ramal caso tenha.">
+</div>
+<div class="form-group">
+    <label for="exampleInputEmail1">Celular</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="celular" placeholder="Digite o núemro de celular corporativo.">
+</div>
+<div class="form-group">
+    <label for="exampleInputEmail1">E-mail</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email" placeholder="O e-mail aqui.">
+</div><br/>  
+<center><input class="btn btn-success" name="Submit" type="submit" value="CRIAR"></center>
+</form>
+<p>by Igor</p>	
+</body>
+</html>
