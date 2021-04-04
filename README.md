@@ -7,8 +7,9 @@ Para deixar a assinatura usavel para sua empresa, favor realizar as seguintes al
 1. Caso queira mudar a disposição da assinatura, pode alterar o CSS que está dentro da pasta **[_CSS](https://github.com/elioigor/AssinaturaPHP/blob/main/_css/estilo.css)**
 1. Após preencher todas as informações, clicar no botão **CRIAR** e tirar um print da assinatura.
 
-## IMGAENS
-
+## PRINTS
+![FORMULÁRIO](https://github.com/elioigor/AssinaturaPHP/blob/main/_prints/print_formulario.png)
+![ASSINATURA](https://github.com/elioigor/AssinaturaPHP/blob/main/_prints/print_assinatura.png)
 
 ## MELHORIAS
 - [x] Aplicar PHP no formulário para simples preenchimento.
