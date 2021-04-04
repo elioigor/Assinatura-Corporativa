@@ -42,6 +42,12 @@ table {
 	width: 50%;
 	top: 50%;
 }
+table#assinatura {
+    width:800px;
+}
+td#logo {
+    border-left:solid #008D61;
+}
 form {
 	margin: 0 auto;
 	width: 98%;

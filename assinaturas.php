@@ -9,7 +9,7 @@
 </head>
 <body>
 	<br/>
-    <table style="width:950px"><tbody>
+    <table id="assinatura"><tbody>
 	<tr>
 	<td>
 		<?php 
@@ -27,7 +27,7 @@
 			<br/>Tel: $telefone | Celular: $celular<br/>Email: $email</h4>";
 		?>
 	</td>
-		<td style="border-left:solid #008D61;"><img src="_imagens/logo_google.jpg" width="300">
+		<td id="logo"><img src="_imagens/logo_google.jpg" width="300">
 		</td>
 	</tr>
 	</tbody>
