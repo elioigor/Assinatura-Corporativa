@@ -9,7 +9,8 @@ Para deixar a assinatura usavel para sua empresa, favor realizar as seguintes al
 
 ## IMGAENS
 
+
 ## MELHORIAS
 - [x] Aplicar PHP no formulário para simples preenchimento.
-- [] Aplicar Javascript para preenchimento obrigatório.
-- [] Encontrar uma forma de salvar a assinatura direto da página.
+- [ ] Aplicar Javascript para preenchimento obrigatório.
+- [ ] Encontrar uma forma de salvar a assinatura direto da página.
