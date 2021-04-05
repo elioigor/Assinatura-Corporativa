@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
 	<meta charset="utf-8"/>
 	<title>Assinatura Terumo</title>
@@ -6,30 +7,50 @@
     <link rel="stylesheet" href="_css/estilo.css"/>
 </head>
 <body>
-<br/>
-<form id="contactform" class="rounded" method="get" action="assinaturas.php">
-<center><h3>ASSINATURA DE E-MAIL AUTOMÁTICA</h3></center><br/>
+<form id="contactform" class="" method="get" action="assinaturas.php">
+<h3>ASSINATURA DE E-MAIL AUTOMÁTICA</h3><br/>
+<!-- CAMPO NOME -->
 <div class="form-group">
     <label for="exampleInputEmail1">Nome do Colaborador</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="nome" placeholder="Escreva o nome aqui!">
 </div>
+<!-- CAMPO CARGO -->
 <div class="form-group">
     <label for="exampleInputEmail1">Cargo</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="cargo" placeholder="Qual o cargo?">
 </div>
+<!-- CAMPO TELEFONE -->
 <div class="form-group">
     <label for="exampleInputEmail1">Telefone (Ramal)</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="telefone" placeholder="Digite o número com ramal caso tenha.">
 </div>
+<!-- CAMPO CELULAR -->
 <div class="form-group">
     <label for="exampleInputEmail1">Celular</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="celular" placeholder="Digite o núemro de celular corporativo.">
 </div>
+<!-- CAMPO EMAIL -->
 <div class="form-group">
     <label for="exampleInputEmail1">E-mail</label>
     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="email" placeholder="O e-mail aqui.">
-</div><br/>  
-<input class="btn btn-success" name="Submit" type="submit" value="CRIAR">
+</div>
+<!-- CAMPO EMPRESA -->
+<div class="form-group">
+    <label for="exampleInputEmail1">Empresa</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="empresa" placeholder="Digite o nome da empresa">
+</div>
+<!-- ENDEREÇO COMPLETO -->
+<div class="form-group">
+    <label for="exampleInputEmail1">Endereço</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="endereco" placeholder="Informe o endereço Rua, Av, Viela...">
+</div>
+<!-- COMPLEMENTO ENDEREÇO -->
+<div class="form-group">
+    <label for="exampleInputEmail1">Complemento Endereço</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="cendereco" placeholder="Complete endereço com Bairro, Cidade, Estado e CEP.">
+</div>
+<br/>  
+<input id="btao" class="btn btn-success" name="Submit" type="submit" value="CRIAR">
 </form>
 <p>by Igor Piva</p>	
 </body>

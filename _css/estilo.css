@@ -18,7 +18,7 @@
     box-shadow: 2px 2px 2px #cccccc;
   
 }
-form {
+form{
 	margin: 0 auto;
 	width: 50%;
 	top: 50%;
@@ -27,6 +27,9 @@ p {
 	color:#008D61;
 	font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 	font-size: 18px;
+}
+h3{
+    text-align: center;
 }
 h4, h5 {
 	font-family:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
@@ -54,4 +57,7 @@ form {
 }
 input:hover {
 	background-color: rgba(160,160,160,.7);
+}
+input#btao {
+    margin-left: 40%;
 }

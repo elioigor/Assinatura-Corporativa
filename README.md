@@ -11,8 +11,13 @@ Para deixar a assinatura usavel para sua empresa, favor realizar as seguintes al
 ![FORMULÁRIO](https://github.com/elioigor/AssinaturaPHP/blob/main/_prints/print_formulario.png)
 ![ASSINATURA](https://github.com/elioigor/AssinaturaPHP/blob/main/_prints/print_assinatura.png)
 
+## DEMO: [ASSINATURA CORPORATIVA](https://elioigor.github.io/Assinatura-Corporativa/)
+
 ## MELHORIAS
 - [x] Aplicar PHP no formulário para simples preenchimento.
-- [ ] Criar novos campos para o usuário preencher os dados da empresa.
+- [X] Criar novos campos para o usuário preencher os dados da empresa.
+- [X] Melhorias no HTML.
+- [ ] Melhorias no CSS.
+- [X] Marcações de comentários na [INDEX.HTML](https://github.com/elioigor/AssinaturaPHP/blob/main/index.html).
 - [ ] Aplicar Javascript para preenchimento obrigatório.
-- [ ] Encontrar uma forma de salvar a assinatura direto da página.
+- [ ] Encontrar uma forma de salvar a assinatura em JGP ou PNG direto da página.
