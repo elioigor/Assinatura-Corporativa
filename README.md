@@ -18,6 +18,7 @@ Para deixar a assinatura usavel para sua empresa, favor realizar as seguintes al
 - [X] Criar novos campos para o usuário preencher os dados da empresa.
 - [X] Melhorias no [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]().
 - [X] Marcações de comentários na [INDEX.HTML](https://github.com/elioigor/AssinaturaPHP/blob/main/index.html).
-- [X] Aplicar Javascript para preenchimento obrigatório.
+- [X] Aplicar [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-red?style=for-the-badge&logo=javascript&logoColor=white)]
+ para preenchimento obrigatório.
 - [ ] Melhorias no [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]().
 - [ ] Encontrar uma forma de salvar a assinatura em JGP ou PNG direto da página.
