@@ -4,7 +4,7 @@ Para deixar a assinatura usavel para sua empresa, favor realizar as seguintes al
 
 1. Altere o logo do Google pelo da sua empresa na pasta **[imagens](https://github.com/elioigor/AssinaturaPHP/tree/main/_imagens)** 
 1. ~~Para inclusão dos dados da sua empresa, altere as linhas **24, 25 e 26** no arquivo **[ASSINATURAS.PHP](https://github.com/elioigor/AssinaturaPHP/blob/main/assinaturas.php)**~~ Foram implementados novos campos no formulário e inputado no **PHP**.
-1. Caso queira mudar a disposição da assinatura, pode alterar o CSS que está dentro da pasta **[_CSS](https://github.com/elioigor/AssinaturaPHP/blob/main/_css/estilo.css){:target="_blank"}**
+1. Caso queira mudar a disposição da assinatura, pode alterar o CSS que está dentro da pasta **[_CSS](https://github.com/elioigor/AssinaturaPHP/blob/main/_css/estilo.css)**
 1. Após preencher todas as informações, clicar no botão **CRIAR** e tirar um print da assinatura.
 
 ## PRINTS
