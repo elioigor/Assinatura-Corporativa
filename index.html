@@ -2,12 +2,13 @@
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8"/>
-	<title>Assinatura Terumo</title>
+	<title>Assinatura Corporativa</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="_css/estilo.css"/>
+    <script language="javascript" src="_js/validador.js"></script>
 </head>
 <body>
-<form id="contactform" class="" method="get" action="assinaturas.php">
+<form id="contactform" method="get" action="assinaturas.php" onsubmit="return validador(this)">
 <h3>ASSINATURA DE E-MAIL AUTOMÁTICA</h3><br/>
 <!-- CAMPO NOME -->
 <div class="form-group">
